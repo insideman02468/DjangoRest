@@ -6,5 +6,5 @@ git remote add origin https://github.com/insideman02468/DjangoRest.git
 git status
 git checkout tutorial1
 git add --all
-git commit -m "Start quickstart Django REST framework tutorial1"
+git commit -m "Finish quickstart Django REST framework tutorial1"
 git push origin tutorial1

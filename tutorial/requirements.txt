@@ -4,3 +4,5 @@ django-heroku
 requests
 whitenoise
 djangorestframework
+pygments  # We'll be using this for the code highlighting
+httpie  ##Using in Rest tutorial2
